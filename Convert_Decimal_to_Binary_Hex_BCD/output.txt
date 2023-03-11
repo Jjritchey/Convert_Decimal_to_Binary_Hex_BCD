@@ -1,0 +1,2 @@
+Decimal         Binary          Hexadecimal          BCD
+10 0101 0101
